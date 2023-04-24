@@ -11,3 +11,5 @@ The images were manually extracted from large images from the USGS National Map 
 Reference: Yi Yang and Shawn Newsam, "Bag-Of-Visual-Words and Spatial Extensions for Land-Use Classification," ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM GIS), 2010.
 
 This material is based upon work supported by the National Science Foundation under Grant No. 0917069.
+
+Dataset link: https://drive.google.com/file/d/16_Xq34zAKhgW8_aHXuF_gqGmeM7KXxZW/view?usp=share_link
